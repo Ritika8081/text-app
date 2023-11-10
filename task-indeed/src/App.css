@@ -1,0 +1,33 @@
+.hero{
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 1%;
+  margin-bottom: 5%;
+ padding: 5%;
+  width: 90%;
+  height: 50%;
+}
+.search-and-login {
+  display: flex;
+  align-items: center;
+ justify-content: center;
+  height: 10vh;
+}
+
+.search-bar {
+  padding: 1%;
+margin-left: 1%;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-right: 10px;
+}
+
+.login-button {
+  padding: 1%  2%;
+  margin-right: 2%;
+  background-color: red;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
